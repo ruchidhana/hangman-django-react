@@ -31,7 +31,7 @@ An interactive Hangman game built with Django REST Framework for the backend and
 1. Ensure Node.js(my node version : v20.18.0) and npm (my npm version : 10.8.2) are installed.
 2. Navigate to the frontend directory.
 3. Install dependencies:
-   npm install
+   npm install and 
    npm start
 
 Enjoy playing Hangman! 😊
