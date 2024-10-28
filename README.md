@@ -17,18 +17,18 @@ An interactive Hangman game built with Django REST Framework for the backend and
 
 # Backend Setup
 
-1. Ensure Python and Django are installed.
+1. Ensure Python are installed. (My Python version : 3.12.1)
 2. Navigate to the backend directory.
-3. Install dependencies
+3. Install dependencies. Navigate to hangman_project/game/ and run below
    pip install -r requirements.txt
-4. Run migrations
+4. then go back to hangman_project and Run migrations
    python manage.py migrate
 5. Start the backend server:
    python manage.py runserver
 
 # Frontend Setup
 
-1. Ensure Node.js and npm are installed.
+1. Ensure Node.js(my node version : v20.18.0) and npm (my npm version : 10.8.2) are installed.
 2. Navigate to the frontend directory.
 3. Install dependencies:
    npm install
